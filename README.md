@@ -18,7 +18,7 @@ Agent-based systems: Building workflows that route tasks to specialized agents b
 
 Front-End Development (for collaboration with your Svelte team)<br>
 
-Frameworks: React, Vue, Svelte (familiar with component-based architecture)<br>
+Frameworks: React, React Native, Vue, Svelte (familiar with component-based architecture)<br>
 Languages: TypeScript, JavaScript<br>
 Styling: Tailwind, CSS, responsive design<br>
 
