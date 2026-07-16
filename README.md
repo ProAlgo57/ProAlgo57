@@ -27,6 +27,12 @@ Frameworks: React, React Native, Vue, Svelte (familiar with component-based arch
 Languages: TypeScript, JavaScript<br>
 Styling: Tailwind, CSS, responsive design<br>
 
+Blockchain & Web3 Development<br>
+Smart Contracts: Solidity (ERC-20, ERC-721), contract deployment and testing<br>
+Web3 Integration: Web3.js, Ethers.js for connecting frontend apps to blockchain networks<br>
+Wallet & Authentication: MetaMask integration, wallet-based login flows<br>
+Blockchain APIs: Working with Alchemy, Infura, Moralis<br>
+
 Testing & DevOps<br>
 
 Testing: Pytest, automated testing, schema validation<br>
