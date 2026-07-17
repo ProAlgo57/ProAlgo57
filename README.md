@@ -2,7 +2,7 @@
 ### Software Engineer
 Hi,
 I'm a full-stack developer with experience building scalable backend systems and working across modern web technologies. I focus on writing clean, maintainable code and delivering reliable, high-performance applications.
-Based on the job description, here's a summary of my relevant technical expertise:
+Here's a summary of my relevant technical expertise:
 Back-End Development<br>
 
 Python Frameworks: FastAPI, Django (strong experience with FastAPI for building REST APIs)<br>
